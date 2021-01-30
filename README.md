@@ -46,7 +46,7 @@ Hi, I'm Dacharat Pankong, a software engineer from Thailand.
 
 ![Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=dacharat&hide_border=true&theme=react)<br>
 
-![Dacharat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dacharat)
+<!-- ![Dacharat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dacharat&hide_border=true) -->
 
 <hr>
 
